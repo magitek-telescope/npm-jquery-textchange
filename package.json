@@ -1,0 +1,20 @@
+{
+  "name": "npm-jquery-textchange",
+  "version": "1.0.0",
+  "description": "jQuery text change plugin",
+  "main": "jquery.textchange.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potato4d/npm-jquery-textchange.git"
+  },
+  "keywords": [],
+  "author": "@mkelly12 extends @potato4d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/potato4d/npm-jquery-textchange/issues"
+  },
+  "homepage": "https://github.com/potato4d/npm-jquery-textchange#readme"
+}
