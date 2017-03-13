@@ -1,8 +1,8 @@
 {
-  "name": "npm-jquery-textchange",
+  "name": "jquery-textchange",
   "version": "1.0.0",
   "description": "jQuery text change plugin",
-  "main": "jquery.textchange.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

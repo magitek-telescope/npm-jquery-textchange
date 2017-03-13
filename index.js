@@ -5,6 +5,7 @@
  * Copyright 2010, ZURB
  * Released under the MIT License
  */
+
 (function ($) {
 	
 	$.event.special.textchange = {
